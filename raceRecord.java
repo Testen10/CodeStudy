@@ -1,4 +1,4 @@
-package NYPC2022;
+package CodeStudy;
 
 import java.util.Scanner;
 import java.util.Arrays;
