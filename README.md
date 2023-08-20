@@ -28,4 +28,8 @@ I am familar with using python, but not Java. Hence, by solving programming prob
   <li>1978번 소수 찾기 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/findPrimeNum_1978.java", target="_blank">findPrimeNum_1978.java</a></li>
   <li>1292번 쉽게 푸는 문제 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/solveQuestionEasy_1292.java", target="_blank">solveQuestionEasy_1292.java</a></li>
   <li>2581번 소수 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/primeNum_2581.java", target="_blank">primeNum_2581.java</a></li>
+  <li>14888번 연산자 끼워넣기 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/insertOperator_14888.java", target="_blank">insertOperator_14888.java</a></li>
+  <li>2504번 괄호의 값 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/valueOfbracket_2504.java", target="_blank">valueOfbracket_2504.java</a></li>
+  <li>14719번 빗물 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/rainDrop_14719.java", target="_blank">rainDrop_14719.java</a></li>
+  <li>1062번 가르침 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/teaching_1062.java", target="_blank">teaching_1062.java</a></li>
 </ul>
