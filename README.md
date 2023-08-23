@@ -32,4 +32,7 @@ I am familar with using python, but not Java. Hence, by solving programming prob
   <li>2504번 괄호의 값 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/valueOfbracket_2504.java", target="_blank">valueOfbracket_2504.java</a></li>
   <li>14719번 빗물 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/rainDrop_14719.java", target="_blank">rainDrop_14719.java</a></li>
   <li>1062번 가르침 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/teaching_1062.java", target="_blank">teaching_1062.java</a></li>
+  <li>1700번 멀티탭 스케줄링/ <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/multiTabScheduling_1700.java", target="_blank">multiTabScheduling_1700.java</a></li>
+  <li>1806번 부분합 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/Subsequence_1806.java", target="_blank">Subsequence_1806.java</a></li>
+  <li>1916번 최소비용 구하기 / <a href="https://github.com/Testen10/CodeStudy/blob/main/Baekjoon/minCost_1916.java", target="_blank">minCost_1916.java</a></li>
 </ul>
