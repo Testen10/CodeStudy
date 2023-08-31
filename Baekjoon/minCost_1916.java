@@ -48,9 +48,7 @@ public class minCost_1916 {
 		for(int row=0;row<N;row++) {
 			for(int col=0;col<N;col++) {
 				// 출발지와 목적지가 같은 경우 이동에 드는 비용 = 0
-				if(row==col) {
-					bus_map[row][col]=0;
-				}
+				if(row==col) bus_map[row][col]=0;
 				// 한 곳에서 다른 곳으로 가는 최소비용을 저장해야 하니까 초기 값은 max_value로 설정 
 				else bus_map[row][col]=Integer.MAX_VALUE;
 			}
